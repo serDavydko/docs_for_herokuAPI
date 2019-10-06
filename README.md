@@ -1,4 +1,4 @@
-# hobbies API endpoints v0.0.1
+# hobbies API endpoints v0.0.1 - [Hobbies API server Here](https://user-hobby-api.herokuapp.com)
 
 
 
@@ -28,10 +28,10 @@
 
 | Name    | Type      | Description                          |
 |---------|-----------|--------------------------------------|
-| hobby			| 			|  <p>Hobbies's hobby.</p>							|
-| passion			| 			|  <p>Hobbies's passion.</p>							|
-| sinceYear			| 			|  <p>Hobbies's sinceYear.</p>							|
-| userId			| 			|  <p>Hobbies's userId.</p>							|
+| hobby			| 			|  Hobbies's hobby.						|
+| passion			| 			|  Hobbies's passion.							|
+| sinceYear			| 			|  Hobbies's sinceYear.							|
+| userId			| 			|  Hobbies's userId.							|
 
 ## Delete hobbies
 
@@ -51,11 +51,11 @@
 
 | Name    | Type      | Description                          |
 |---------|-----------|--------------------------------------|
-| q			| String			| **optional** <p>Query to search.</p>							|
-| page			| Number			| **optional** <p>Page number.</p>							|
-| limit			| Number			| **optional** <p>Amount of returned items.</p>							|
-| sort			| String[]			| **optional** <p>Order of returned items.</p>							|
-| fields			| String[]			| **optional** <p>Fields to be returned.</p>							|
+| q			| String			| **optional** Query to search.							|
+| page			| Number			| **optional** Page number.							|
+| limit			| Number			| **optional** Amount of returned items.							|
+| sort			| String[]			| **optional** Order of returned items.							|
+| fields			| String[]			| **optional** Fields to be returned.							|
 
 ## Update hobbies
 
@@ -68,10 +68,10 @@
 
 | Name    | Type      | Description                          |
 |---------|-----------|--------------------------------------|
-| hobby			| 			|  <p>Hobbies's hobby.</p>							|
-| passion			| 			|  <p>Hobbies's passion.</p>							|
-| sinceYear			| 			|  <p>Hobbies's sinceYear.</p>							|
-| userId			| 			|  <p>Hobbies's userId.</p>							|
+| hobby			| 			|  Hobbies's hobby.						|
+| passion			| 			|  Hobbies's passion.							|
+| sinceYear			| 			|  Hobbies's sinceYear.							|
+| userId			| 			|  Hobbies's userId.							|
 
 # Users
 
@@ -86,7 +86,7 @@
 
 | Name    | Type      | Description                          |
 |---------|-----------|--------------------------------------|
-| name			| 			|  <p>Users's name.</p>							|
+| name			| 			|  Users's name.							|
 
 ## Delete users
 
@@ -106,10 +106,10 @@
 
 | Name    | Type      | Description                          |
 |---------|-----------|--------------------------------------|
-| q			| String			| **optional** <p>Query to search.</p>							|
-| page			| Number			| **optional** <p>Page number.</p>							|
-| limit			| Number			| **optional** <p>Amount of returned items.</p>							|
-| sort			| String[]			| **optional** <p>Order of returned items.</p>							|
-| fields			| String[]			| **optional** <p>Fields to be returned.</p>							|
+| q			| String			| **optional** Query to search.							|
+| page			| Number			| **optional** Page number.							|
+| limit			| Number			| **optional** Amount of returned items.							|
+| sort			| String[]			| **optional** Order of returned items.							|
+| fields			| String[]			| **optional** Fields to be returned.							|
 
 
