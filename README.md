@@ -1,4 +1,4 @@
-# hobbies v0.0.1
+# hobbies API endpoints v0.0.1
 
 
 
